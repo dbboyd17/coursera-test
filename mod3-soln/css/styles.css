@@ -1,7 +1,6 @@
-h1, h2 {
-    text-align: center;
+ul {
+    background:rgb(28, 255, 20);
 }
-
 section {
     background: darkorchid;
     height: 1200px;
