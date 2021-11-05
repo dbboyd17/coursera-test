@@ -4,8 +4,10 @@ h1, h2 {
 
 section {
     background: darkorchid;
+    height: 1200px;
 }
 
 article {
     background: rgb(61, 117, 139);
 }
+
