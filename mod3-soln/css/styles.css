@@ -10,3 +10,7 @@ article {
     background: rgb(61, 117, 139);
 }
 
+a {
+margin-left 20px;
+margin-right: 20px;
+}
