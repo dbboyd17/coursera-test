@@ -1,0 +1,11 @@
+h1, h2 {
+    text-align: center;
+}
+
+section {
+    background: darkorchid;
+}
+
+article {
+    background: rgb(61, 117, 139);
+}
