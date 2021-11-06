@@ -17,7 +17,7 @@ section {
 }
 article {
     background: darkorchid;
-    padding:20px;
+    padding:40px;
 }
 h1 {
     color: white;
@@ -45,7 +45,10 @@ p {
 #menu-text {
     height: 1200px;
 }
-
+.container {
+    width:auto;
+}
 p a {
+    padding-top: 15px;
     color: white;
 }
