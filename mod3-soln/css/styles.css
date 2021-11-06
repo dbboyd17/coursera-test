@@ -1,16 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+  }
+  html {
+    background: darkorchid;
+  }
 ul {
     background:rgb(28, 255, 20);
+    padding-left:20px;
 }
 section {
     background: darkorchid;
-    height: 1200px;
+    margin:0px;
+    padding:0px;
+    border:0px;   
 }
-
 article {
-    background: rgb(61, 117, 139);
+    background: darkorchid;
+    padding:20px;
 }
+h1 {
+    color: white;
+}
+h2 {
+    background-color: #A52A2A;
+    margin:0px;
+    color: white;
 
-a {
-margin-left 20px;
-margin-right: 20px;
+}
+p {
+    background-color: #A52A2A;
+    padding:10px;
+    height:auto;
+    color: white;
+    margin:0px;
+    overflow: hidden;
+}
+.navbar {
+    border-radius: 0px;
+}
+.navbar-nav{
+    margin:0px;
+}
+#menu-text {
+    height: 1200px;
 }
