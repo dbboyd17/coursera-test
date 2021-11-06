@@ -45,3 +45,7 @@ p {
 #menu-text {
     height: 1200px;
 }
+
+p a {
+    color: white;
+}
